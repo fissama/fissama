@@ -1,6 +1,6 @@
-- Hi, I'm Phi Le Anh, 23 years old, belongs from Ho Chi Minh City, Viet Nam 👋
+- Hi, I'm Phi Le Anh, 27 years old, from Ho Chi Minh City, Viet Nam 👋
 
-- I'm a software developer with more than one year of experience. I specialize in .NET technologies using ASP.NET Core, Angular, and TSQL. Also, I'm interested in Golang, JavaScript, and some front-end development like React. I can work alone or in a team.
+- I’m a software developer with over 5 years of experience, currently specializing in backend development using Go (Golang). I have a strong foundation in .NET technologies, including ASP.NET Core, along with experience in Angular and T-SQL. Over time, I’ve shifted my focus more towards scalable backend systems, distributed services, and infrastructure. I also have working knowledge of JavaScript and front-end frameworks like React. I'm comfortable working independently or as part of a cross-functional team.
 - My contact: [Facebook](http://www.facebook.com/leanh.phi.71) [Linkedin](http://www.linkedin.com/in/lê-anh-phi-9404801a7/) [Instagram](https://www.instagram.com/phileas99_/)
 > Try and fail, but never fail to try!
 ---
